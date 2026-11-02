@@ -1,0 +1,270 @@
+[
+  {
+    "id": "bach-cello-suite-1-prelude",
+    "title": "Cello Suite No. 1 in G major, BWV 1007: I. Prélude",
+    "performer": "Yo-Yo Ma",
+    "composer": "Johann Sebastian Bach",
+    "compositionYear": 1720,
+    "recordingYear": 2018,
+    "recordingNote": "From 'Six Evolutions – Bach: Cello Suites' (2018), Ma's third recording of the complete suites; official Sony video on the YoYoMaVEVO channel",
+    "category": "classical",
+    "tags": ["baroque", "solo cello", "entry-point"],
+    "context": "Bach wrote his six cello suites sometime between 1717 and 1723 while working as Kapellmeister at Köthen; the exact dating is uncertain. They were little performed in the modern era until Pablo Casals began recording them in 1936. Yo-Yo Ma has recorded the complete set three times, most recently for Six Evolutions (2018), the source of this official video. The Prélude is built almost entirely from one repeated pattern of broken chords — a single idea, worked patiently for about two and a half minutes.",
+    "listenFor": "How the same arpeggio pattern seems to change colour every time it returns, even though nothing about it changes.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "1prweT95Mo0",
+      "watchUrl": "https://www.youtube.com/watch?v=1prweT95Mo0"
+    },
+    "fallbackUrl": "https://yoyoma.lnk.to/SixEvolutionsBachCelloSuitesAY",
+    "sources": [
+      "https://www.youtube.com/watch?v=1prweT95Mo0",
+      "https://en.wikipedia.org/wiki/Cello_suites_(Bach)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "vivaldi-summer-presto-chloe-chua",
+    "title": "The Four Seasons, No. 2 'Summer' in G minor, RV 315: III. Presto",
+    "performer": "Chloe Chua, Singapore Symphony Orchestra",
+    "composer": "Antonio Vivaldi",
+    "compositionYear": 1725,
+    "recordingYear": 2022,
+    "recordingNote": "Live concert recording from April 2022 at the Esplanade Concert Hall, Singapore; from Chua's Pentatone debut album 'Vivaldi: Four Seasons / Locatelli: Harmonic Labyrinth' (2023)",
+    "category": "classical",
+    "tags": ["baroque", "violin", "orchestra"],
+    "context": "Vivaldi's Four Seasons were published in Amsterdam in 1725 as the first four concertos of Il cimento dell'armonia e dell'inventione, each paired with a sonnet describing the music. The Presto that closes Summer is a storm: slashing rain figures and sudden thunder. Violinist Chloe Chua won joint first prize at the 2018 Yehudi Menuhin Competition playing 'Winter', aged 11. This performance with the Singapore Symphony was filmed live when she was 15.",
+    "listenFor": "The violins' slashing figure — Vivaldi's musical hail — answered by the orchestra's low thunder rolls.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "W44PFMXuy_Q",
+      "watchUrl": "https://www.youtube.com/watch?v=W44PFMXuy_Q"
+    },
+    "fallbackUrl": "https://www.pentatonemusic.com/product/vivaldi-four-seasons-locatelli-harmonic-labyrinth/",
+    "sources": [
+      "https://www.youtube.com/watch?v=W44PFMXuy_Q",
+      "https://www.britannica.com/topic/The-Four-Seasons-by-Vivaldi"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "clara-schumann-piano-trio-op-17",
+    "title": "Piano Trio in G minor, Op. 17",
+    "performer": "ATOS Trio",
+    "composer": "Clara Schumann",
+    "compositionYear": 1846,
+    "recordingYear": 2019,
+    "recordingNote": "ATOS Trio's 2019 recording for the album 'Clara Schumann & Fanny Mendelssohn: Piano Trios'; full performance video on YouTube",
+    "category": "classical",
+    "tags": ["romantic", "chamber", "piano trio"],
+    "context": "Clara Schumann wrote her only piano trio in 1846, in Dresden, during a difficult stretch: her husband Robert was unwell, and she composed it while pregnant and made to rest. She later judged it harshly herself, but Robert's own Piano Trio in D minor, written the following year, responds to hers directly — her work shaped his. The ATOS Trio (Annette von Hehn, Stefan Heinemeyer, Thomas Hoppe) recorded it in 2019 for an album pairing Clara's trio with Fanny Mendelssohn's.",
+    "listenFor": "The quiet, searching theme the piano opens with, and how the strings take it up and answer it back.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "9JyeWA1ZD8g",
+      "watchUrl": "https://www.youtube.com/watch?v=9JyeWA1ZD8g"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=9JyeWA1ZD8g",
+    "sources": [
+      "https://www.youtube.com/watch?v=9JyeWA1ZD8g",
+      "https://en.wikipedia.org/wiki/Piano_Trio_(Clara_Schumann)",
+      "https://de.wikipedia.org/wiki/Atos_Trio"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "beethoven-symphony-7-allegretto",
+    "title": "Symphony No. 7 in A major, Op. 92: II. Allegretto",
+    "performer": "Vienna Philharmonic, Claudio Abbado",
+    "composer": "Ludwig van Beethoven",
+    "compositionYear": 1812,
+    "recordingYear": 1987,
+    "recordingNote": "Deutsche Grammophon recording of Beethoven's Symphonies Nos. 7 & 8, Abbado conducting the Vienna Philharmonic (℗ 1988)",
+    "category": "classical",
+    "tags": ["classical", "orchestra", "entry-point"],
+    "context": "Beethoven finished his Seventh Symphony in 1812 and conducted the first performance himself in Vienna on 8 December 1813, at a concert benefiting soldiers wounded at the Battle of Hanau. The second movement's insistently repeated rhythm — two short beats and one long — has made it one of the most recognisable things Beethoven wrote, and a fixture of film soundtracks. This recording pairs Claudio Abbado with the Vienna Philharmonic for Deutsche Grammophon.",
+    "listenFor": "The ostinato pattern — two quick notes and one long — as it moves from the low strings up through the rest of the orchestra.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "Vi05EG6sTVQ",
+      "watchUrl": "https://www.youtube.com/watch?v=Vi05EG6sTVQ"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=Vi05EG6sTVQ",
+    "sources": [
+      "https://www.youtube.com/watch?v=Vi05EG6sTVQ",
+      "https://en.wikipedia.org/wiki/Symphony_No._7_(Beethoven)",
+      "https://www.esm.rochester.edu/beethoven/symphony-no-7/"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": "UMG auto-generated 'topic' channel upload — may behave differently in some embed contexts",
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "debussy-clair-de-lune",
+    "title": "Suite bergamasque, L. 75: III. Clair de lune",
+    "performer": "Seong-Jin Cho",
+    "composer": "Claude Debussy",
+    "compositionYear": 1890,
+    "recordingYear": 2017,
+    "recordingNote": "From Cho's 2017 Deutsche Grammophon album 'Debussy'; music video filmed at the Siemensvilla, Berlin",
+    "category": "classical",
+    "tags": ["impressionist", "solo piano", "entry-point"],
+    "context": "Debussy began his Suite bergamasque around 1890, aged 28, and revised it heavily before publishing it in 1905. 'Clair de lune' had originally been titled 'Promenade sentimentale'; its final name comes from a Paul Verlaine poem, though the piece doesn't set the words. Seong-Jin Cho won the 2015 Chopin Competition and recorded Debussy's piano music for Deutsche Grammophon the following two years — this is the album's music video, filmed at Berlin's Siemensvilla.",
+    "listenFor": "The pedal-blurred chords right at the opening, and the moment the melody finally settles back onto them.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "U3u4pQ4WKOk",
+      "watchUrl": "https://www.youtube.com/watch?v=U3u4pQ4WKOk"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=U3u4pQ4WKOk",
+    "sources": [
+      "https://www.youtube.com/watch?v=U3u4pQ4WKOk",
+      "https://en.wikipedia.org/wiki/Suite_bergamasque"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "florence-price-symphony-1-juba",
+    "title": "Symphony No. 1 in E minor: III. Juba Dance. Allegro",
+    "performer": "The Philadelphia Orchestra, Yannick Nézet-Séguin",
+    "composer": "Florence Price",
+    "compositionYear": 1932,
+    "recordingYear": 2021,
+    "recordingNote": "From the Deutsche Grammophon album 'Florence Price: Symphonies Nos. 1 & 3' (2021)",
+    "category": "classical",
+    "tags": ["20th century", "orchestra", "american"],
+    "context": "Florence Price wrote her first symphony in 1931–32, partly while recovering from a broken foot, and it won the 1932 Wanamaker competition. On 15 June 1933 the Chicago Symphony Orchestra played it at the Century of Progress World's Fair — the first symphony by a Black woman performed by a major American orchestra. Instead of a conventional scherzo, the third movement is a Juba, after the body-percussion dance tradition of stamping, clapping and slapping.",
+    "listenFor": "The percussion imitating clapping and stamping — plus a slide whistle turning up in the middle of a symphony.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "2s88H94-REw",
+      "watchUrl": "https://www.youtube.com/watch?v=2s88H94-REw"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=2s88H94-REw",
+    "sources": [
+      "https://www.youtube.com/watch?v=2s88H94-REw",
+      "https://en.wikipedia.org/wiki/Symphony_No._1_(Price)",
+      "https://americansymphony.org/concert-notes/symphony-no-1-in-e-minor/"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": "UMG auto-generated 'topic' channel upload — may behave differently in some embed contexts",
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "lili-boulanger-dun-matin-de-printemps",
+    "title": "D'un matin de printemps",
+    "performer": "Seattle Symphony, Cristian Măcelaru",
+    "composer": "Lili Boulanger",
+    "compositionYear": 1918,
+    "recordingYear": 2018,
+    "recordingNote": "Live concert video from the Seattle Symphony's official channel, Cristian Măcelaru conducting",
+    "category": "classical",
+    "tags": ["20th century", "orchestra", "french", "impressionist"],
+    "context": "Lili Boulanger wrote D'un matin de printemps between 1917 and early 1918, in the last year of her life — she died that March, aged 24. It was composed alongside D'un soir triste, a companion piece in a much darker mood, and both were premiered in Paris in 1921. In 1913 she had become the first woman to win the Prix de Rome for composition. This is a live performance from the Seattle Symphony, conducted by Cristian Măcelaru.",
+    "listenFor": "The fluttering, almost buzzing figure the violins and woodwinds toss back and forth right at the opening.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "i4JeeXilFKo",
+      "watchUrl": "https://www.youtube.com/watch?v=i4JeeXilFKo"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=i4JeeXilFKo",
+    "sources": [
+      "https://www.youtube.com/watch?v=i4JeeXilFKo",
+      "https://en.wikipedia.org/wiki/Lili_Boulanger",
+      "https://www.bso.org/works/dun-matin-de-printemps"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "joseph-bologne-symphony-1",
+    "title": "Symphony No. 1 in G major, Op. 11, No. 1",
+    "performer": "Lowell Chamber Orchestra",
+    "composer": "Joseph Bologne, Chevalier de Saint-Georges",
+    "compositionYear": 1779,
+    "recordingYear": 2025,
+    "recordingNote": "Full live performance filmed in 2025, uploaded to the orchestra's official channel",
+    "category": "classical",
+    "tags": ["classical era", "orchestra", "discovery"],
+    "context": "Joseph Bologne, Chevalier de Saint-Georges, was born in Guadeloupe in 1745, the son of a French plantation owner and an enslaved African woman. He became one of 18th-century Paris's leading violinists and orchestra directors, and a champion fencer. His two symphonies Op. 11 were published in Paris in 1779. He is increasingly programmed by major orchestras; this is a complete live performance by the Lowell Chamber Orchestra.",
+    "listenFor": "The opening Allegro's bright, tidy themes, and how often the orchestra hands the tune straight to the violins.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "BDTkSHiBFJk",
+      "watchUrl": "https://www.youtube.com/watch?v=BDTkSHiBFJk"
+    },
+    "fallbackUrl": "https://lowellchamberorchestra.org",
+    "sources": [
+      "https://www.youtube.com/watch?v=BDTkSHiBFJk",
+      "https://orchestremetropolitain.com/en/musical-work/symphony-no-1-chevalier-de-saint-george/",
+      "https://www.bpl.org/blogs/post/joseph-bologne-chevalier-de-saint-georges/"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "arvo-part-spiegel-im-spiegel",
+    "title": "Spiegel im Spiegel (for cello and piano)",
+    "performer": "Dietmar Schwalke, Alexander Malter",
+    "composer": "Arvo Pärt",
+    "compositionYear": 1978,
+    "recordingYear": 1995,
+    "recordingNote": "Cello-and-piano version recorded July 1995 at the Festeburgkirche, Frankfurt; released 1999 on ECM's album 'Alina'",
+    "category": "classical",
+    "tags": ["contemporary", "minimalism", "cello"],
+    "context": "Arvo Pärt wrote Spiegel im Spiegel in 1978, shortly before leaving Estonia, in the tintinnabuli style he had developed — a second voice built only from notes of the home chord, like bell overtones. This version, for cello and piano, was recorded in July 1995 at Frankfurt's Festeburgkirche and released in 1999 on ECM's album Alina. It has since been used in a long list of films and television shows.",
+    "listenFor": "The cello line growing one note at a time, over and away from, the piano's bell-like triads.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "CP-Ugxhsijs",
+      "watchUrl": "https://www.youtube.com/watch?v=CP-Ugxhsijs"
+    },
+    "fallbackUrl": "https://ecmrecords.com/product/arvo-part-alina-vladimir-spivakov-sergej-bezrodny-dietmar-schwalke-alexander-malter/",
+    "sources": [
+      "https://www.youtube.com/watch?v=CP-Ugxhsijs",
+      "https://ecmrecords.com/product/arvo-part-alina-vladimir-spivakov-sergej-bezrodny-dietmar-schwalke-alexander-malter/",
+      "https://www.arvopart.ee/en/arvo-part/work/544/",
+      "https://en.wikipedia.org/wiki/Spiegel_im_Spiegel"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": "UMG auto-generated upload of the ECM recording — may behave differently in some embed contexts",
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "max-richter-on-the-nature-of-daylight",
+    "title": "On the Nature of Daylight (orchestral version)",
+    "performer": "Max Richter",
+    "composer": "Max Richter",
+    "compositionYear": 2003,
+    "recordingYear": 2016,
+    "recordingNote": "Official audio of the 2016 orchestral version, released on Deutsche Grammophon for the album's anniversary reissue of 'The Blue Notebooks'",
+    "category": "classical",
+    "tags": ["contemporary", "strings", "minimalism"],
+    "context": "Max Richter wrote and recorded The Blue Notebooks in 2003; it was released the following year, and he has described the album as a protest against political, social and personal brutality. 'On the Nature of Daylight' is its best-known track, and it later turned up in films including Arrival. This is the 2016 orchestral version, an official Deutsche Grammophon audio release from the album's anniversary reissue.",
+    "listenFor": "The sustained string chords looping underneath while the piano keeps circling the same small falling figure.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "8jJO0SV19l8",
+      "watchUrl": "https://www.youtube.com/watch?v=8jJO0SV19l8"
+    },
+    "fallbackUrl": "https://maxrichtermusic.com/",
+    "sources": [
+      "https://www.youtube.com/watch?v=8jJO0SV19l8",
+      "https://www.deccapublishing.com/max-richter-nature-daylight-video-feat-elisabeth-moss/",
+      "https://www.discogs.com/release/6726180-Max-Richter-The-Blue-Notebooks"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  }
+]

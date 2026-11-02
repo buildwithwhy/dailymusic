@@ -1,0 +1,412 @@
+[
+  {
+    "id": "rappers-delight-sugarhill-gang",
+    "title": "Rapper's Delight",
+    "performer": "The Sugarhill Gang",
+    "composer": "Sylvia Robinson, Wonder Mike, Big Bank Hank, Master Gee (interpolating Chic's 'Good Times')",
+    "compositionYear": 1979,
+    "recordingYear": 1979,
+    "recordingNote": "Debut single, released in 1979 on Sugar Hill Records, produced by Sylvia Robinson",
+    "category": "hiphop",
+    "tags": [
+      "old school",
+      "1970s",
+      "foundations"
+    ],
+    "context": "\"Rapper's Delight\" was the debut single of the Sugarhill Gang, a New Jersey trio assembled by producer Sylvia Robinson. Recorded in 1979 over a replayed bassline from Chic's \"Good Times\", it is credited with introducing rap music to a wide audience: it reached the US top 40, went top three in the UK and hit number one in Canada. Though the Fatback Band's \"King Tim III\" came first, this is the record that took hip hop national.",
+    "listenFor": "The looping Chic bassline rolling under Wonder Mike's opening \"I said a hip hop, the hippie...\" — the moment rap first reached the mainstream.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "mcCK99wHrk0",
+      "watchUrl": "https://www.youtube.com/watch?v=mcCK99wHrk0"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=mcCK99wHrk0",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=mcCK99wHrk0"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/1iuwkFGrSgBmWb7deIACq2"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/album/62On5bjWyNy2EDf6bztfW0"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rapper's_Delight"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "the-message-grandmaster-flash",
+    "title": "The Message",
+    "performer": "Grandmaster Flash & The Furious Five",
+    "composer": "Duke Bootee, Melle Mel, Clifton Chase, Sylvia Robinson",
+    "compositionYear": 1980,
+    "recordingYear": null,
+    "recordingNote": "Written in 1980; released as a single on Sugar Hill Records on July 1, 1982, later the title track of the group's debut album",
+    "category": "hiphop",
+    "tags": [
+      "old school",
+      "1980s",
+      "social commentary"
+    ],
+    "context": "Written in 1980 by Duke Bootee and Melle Mel in response to the New York City transit strike, \"The Message\" was released by Sugar Hill Records on July 1, 1982. Where earlier rap records centred the party, it painted broken elevators, dead-end jobs and urban decay, and it is widely credited with opening hip hop's socially conscious tradition. It became the group's signature record and a blueprint for every storyteller MC who followed.",
+    "listenFor": "The eerie synthesiser bubbling under the famous opening line — \"don't push me 'cause I am close to the edge\" — hip hop's first great chorus of desperation.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "PobrSpMwKk4",
+      "watchUrl": "https://www.youtube.com/watch?v=PobrSpMwKk4"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=PobrSpMwKk4",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=PobrSpMwKk4"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/1J2tfINpEHRhCP8CUS15lE"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "walk-this-way-run-dmc",
+    "title": "Walk This Way",
+    "performer": "Run-DMC with Aerosmith",
+    "composer": "Steven Tyler, Joe Perry",
+    "compositionYear": 1975,
+    "recordingYear": 1986,
+    "recordingNote": "Run-DMC's remake with Steven Tyler and Joe Perry, from Raising Hell (1986); original written and released by Aerosmith in 1975",
+    "category": "hiphop",
+    "tags": [
+      "1980s",
+      "crossover",
+      "rock collaboration"
+    ],
+    "context": "Aerosmith wrote \"Walk This Way\" in 1975 and it was a top ten hit for them two years later. In 1986 Run-DMC rebuilt it from drum machine and guitar riff, trading verses with Steven Tyler and Joe Perry for the Raising Hell album. The collaboration put rap in heavy rotation on MTV, introduced hip hop to a rock audience, and revitalised Aerosmith's own career in the process.",
+    "listenFor": "The drum machine alone for a full verse before Joe Perry's guitar crashes in — the sound of two genres meeting halfway.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "4B_UYYPb-Gk",
+      "watchUrl": "https://www.youtube.com/watch?v=4B_UYYPb-Gk"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=4B_UYYPb-Gk",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=4B_UYYPb-Gk"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/5UH1Qot9NO1z8WtJq0UUv6"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/album/7GtJbUlzblbVdpFqubgglx"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walk_This_Way"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "fight-the-power-public-enemy",
+    "title": "Fight the Power",
+    "performer": "Public Enemy",
+    "composer": "Chuck D, Public Enemy (production: The Bomb Squad)",
+    "compositionYear": 1989,
+    "recordingYear": null,
+    "recordingNote": "Released summer 1989 on Motown for Spike Lee's Do the Right Thing; extended version on Fear of a Black Planet (1990)",
+    "category": "hiphop",
+    "tags": [
+      "1980s",
+      "political rap",
+      "golden age"
+    ],
+    "context": "Spike Lee asked Public Enemy for a musical theme for his 1989 film Do the Right Thing, and Chuck D answered with \"Fight the Power\", released in summer 1989 on Motown. The extended version anchored the group's third album Fear of a Black Planet (1990). Built on the Bomb Squad's dense collage of samples and voices, it remains the group's defining statement — a demand, not a request.",
+    "listenFor": "The layers of found sound — horns, shouts, Flavor Flav's heckling — stacking on top of each other like a street protest with a beat.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "mmo3HFa2vjg",
+      "watchUrl": "https://www.youtube.com/watch?v=mmo3HFa2vjg"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=mmo3HFa2vjg",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=mmo3HFa2vjg"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/3WsrkrLMD8vWmz5RyD6n9e"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/album/5tJDrhSbnDdaDovnywQe87"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "can-i-kick-it-a-tribe-called-quest",
+    "title": "Can I Kick It?",
+    "performer": "A Tribe Called Quest",
+    "composer": "A Tribe Called Quest (samples Lou Reed's 'Walk on the Wild Side')",
+    "compositionYear": null,
+    "recordingYear": 1989,
+    "recordingNote": "Recorded in 1989; released October 1990 on Jive Records as the third single from People's Instinctive Travels and the Paths of Rhythm",
+    "category": "hiphop",
+    "tags": [
+      "jazz rap",
+      "1990s",
+      "native tongues"
+    ],
+    "context": "Released in October 1990 on Jive as the third single from People's Instinctive Travels and the Paths of Rhythm, \"Can I Kick It?\" was recorded in 1989, when Q-Tip and Phife Dawg were just 18 and 19. Its call-and-response chorus became a live staple, and its laid-back loop of Lou Reed's \"Walk on the Wild Side\" helped define the warm, jazzy, sample-driven sound of early-1990s alternative hip hop.",
+    "listenFor": "The slinky Lou Reed bassline answered by the crowd's \"yes you can\" — call and response you can't help joining.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "O3pyCGnZzYA",
+      "watchUrl": "https://www.youtube.com/watch?v=O3pyCGnZzYA"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=O3pyCGnZzYA",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=O3pyCGnZzYA"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/1gSDTZHemEViEBiXysrlo0"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Can_I_Kick_It%3F"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "cream-wu-tang-clan",
+    "title": "C.R.E.A.M.",
+    "performer": "Wu-Tang Clan",
+    "composer": "RZA, Raekwon, Inspectah Deck, Method Man (sampling the Charmels)",
+    "compositionYear": 1994,
+    "recordingYear": 1993,
+    "recordingNote": "From Enter the Wu-Tang (36 Chambers) (1993); released as a single on Loud Records on January 31, 1994",
+    "category": "hiphop",
+    "tags": [
+      "east coast",
+      "1990s",
+      "hardcore hip hop"
+    ],
+    "context": "\"C.R.E.A.M.\" — cash rules everything around me — was the second single from Wu-Tang Clan's 1993 debut Enter the Wu-Tang (36 Chambers), released on Loud Records on January 31, 1994. Produced by RZA around a loop of the Charmels' 1967 single \"As Long As I've Got You\", it pairs Raekwon's and Inspectah Deck's verses about growing up in New York with Method Man's mournful sung hook, and it put the Clan on the map.",
+    "listenFor": "The ghostly 1967 soul loop, cold piano notes and all, that RZA lets run untouched beneath the hardest verses of 1993.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "PBwAxmrE194",
+      "watchUrl": "https://www.youtube.com/watch?v=PBwAxmrE194"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=PBwAxmrE194",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=PBwAxmrE194"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/13slKzK9jB3SxioVL5aRB6"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/C.R.E.A.M."
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "juicy-notorious-big",
+    "title": "Juicy",
+    "performer": "The Notorious B.I.G.",
+    "composer": "The Notorious B.I.G. (sampling Mtume's 'Juicy Fruit')",
+    "compositionYear": 1994,
+    "recordingYear": null,
+    "recordingNote": "First single from Ready to Die (1994); produced by Poke of Trackmasters and Sean Combs",
+    "category": "hiphop",
+    "tags": [
+      "east coast",
+      "1990s",
+      "storytelling"
+    ],
+    "context": "\"Juicy\" was the first single from The Notorious B.I.G.'s debut album Ready to Die (1994), produced by Poke of the Trackmasters and Sean Combs. It flips Mtume's 1983 hit \"Juicy Fruit\" into a rags-to-riches story that climbs from a shot-up apartment to penthouse views, and it is widely considered one of the greatest hip hop tracks of all time. It announced Biggie as a storyteller of rare warmth and wit.",
+    "listenFor": "The Mtume chorus melting into the verse — \"it was all a dream\" — nostalgia and celebration riding the same beat.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "_JZom_gVfuw",
+      "watchUrl": "https://www.youtube.com/watch?v=_JZom_gVfuw"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=_JZom_gVfuw",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=_JZom_gVfuw"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Juicy_(The_Notorious_B.I.G._song)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "doo-wop-that-thing-lauryn-hill",
+    "title": "Doo Wop (That Thing)",
+    "performer": "Lauryn Hill",
+    "composer": "Lauryn Hill",
+    "compositionYear": 1998,
+    "recordingYear": null,
+    "recordingNote": "Written and produced by Hill; lead single from The Miseducation of Lauryn Hill, released August 10, 1998",
+    "category": "hiphop",
+    "tags": [
+      "neo soul",
+      "1990s",
+      "female rappers"
+    ],
+    "context": "Lauryn Hill wrote and produced \"Doo Wop (That Thing)\" herself and released it on August 10, 1998 as her solo debut and the lead single from The Miseducation of Lauryn Hill. Over a beat that nods to 1960s doo-wop, she spends one verse calling out materialistic men and the next doing the same to the women chasing them — equal-opportunity tough love, delivered in a singing rap that switches lanes mid-bar.",
+    "listenFor": "The two halves of the song — one side of the record smooth and soulful, the other all hip hop swagger — meeting in the middle.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "T6QKqFPRZSA",
+      "watchUrl": "https://www.youtube.com/watch?v=T6QKqFPRZSA"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=T6QKqFPRZSA",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=T6QKqFPRZSA"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Doo_Wop_(That_Thing)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "alright-kendrick-lamar",
+    "title": "Alright",
+    "performer": "Kendrick Lamar",
+    "composer": "Kendrick Lamar, Pharrell Williams, Pharrell co-production (To Pimp a Butterfly)",
+    "compositionYear": 2015,
+    "recordingYear": null,
+    "recordingNote": "From To Pimp a Butterfly (2015); released as the album's fourth single on June 30, 2015, co-produced by Pharrell Williams",
+    "category": "hiphop",
+    "tags": [
+      "2010s",
+      "conscious rap",
+      "west coast"
+    ],
+    "context": "\"Alright\" appears on Kendrick Lamar's 2015 album To Pimp a Butterfly and was released as its fourth single on June 30, 2015, co-produced by Pharrell Williams, who also sings the chorus. The song expresses hope amid personal struggle, and many publications ranked it among the best songs and videos of the year. It received four nominations at the 58th Grammy Awards, including Song of the Year and Best Music Video.",
+    "listenFor": "Pharrell's voice lifting the chorus — hard times on every side, and still \"we gon' be alright\" — against the album's darker, jazz-heavy verses.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "Z-48u_uWMHY",
+      "watchUrl": "https://www.youtube.com/watch?v=Z-48u_uWMHY"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=Z-48u_uWMHY",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=Z-48u_uWMHY"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/album/3IpApJonZkbcvtrQOg7wB0"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alright_(Kendrick_Lamar_song)"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "denial-is-a-river-doechii",
+    "title": "Denial Is a River",
+    "performer": "Doechii",
+    "composer": "Doechii (produced by Ian James, Joey Hamhock, Banser)",
+    "compositionYear": null,
+    "recordingYear": 2024,
+    "recordingNote": "From the mixtape Alligator Bites Never Heal (2024); released to radio as its third single on January 28, 2025",
+    "category": "hiphop",
+    "tags": [
+      "2020s",
+      "current",
+      "boom bap revival"
+    ],
+    "context": "Tampa rapper Doechii released \"Denial Is a River\" on her second mixtape, Alligator Bites Never Heal (2024), and pushed it to pop and rhythmic radio as the third single on January 28, 2025. Produced by Ian James, Joey Hamhock and Banser, it stages a therapy-session monologue over a swaggering boom-bap beat, and it reached the top ten in both the United Kingdom and New Zealand.",
+    "listenFor": "The comic back-and-forth voices — therapist, inner child, phone call — skits riding inside the verse like a radio drama over boom bap.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "F0cdbR5ognY",
+      "watchUrl": "https://www.youtube.com/watch?v=F0cdbR5ognY"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=F0cdbR5ognY",
+    "listenLinks": [
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube.com/watch?v=F0cdbR5ognY"
+      },
+      {
+        "provider": "spotify",
+        "url": "https://open.spotify.com/track/35T23cVWheNDXGGBm51g5B"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Denial_Is_a_River"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  }
+]

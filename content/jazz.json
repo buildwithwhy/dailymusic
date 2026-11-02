@@ -1,0 +1,266 @@
+[
+  {
+    "id": "west-end-blues",
+    "title": "West End Blues",
+    "performer": "Louis Armstrong and His Hot Five",
+    "composer": "Joe \"King\" Oliver",
+    "compositionYear": 1928,
+    "recordingYear": 1928,
+    "recordingNote": "The June 28, 1928 Chicago recording for Okeh by Louis Armstrong and His Hot Five — the best-known version of the tune",
+    "category": "jazz",
+    "tags": ["early jazz", "trumpet", "1920s"],
+    "context": "King Oliver wrote this twelve-bar blues and first recorded it on June 11, 1928; seventeen days later his former protégé Louis Armstrong cut the version everyone remembers, for Okeh on June 28, 1928. The Hot Five that day included Earl Hines on piano and drummer Zutty Singleton. Armstrong's unaccompanied opening cadenza was unlike anything on record at the time, and the record entered the Grammy Hall of Fame in 1979.",
+    "listenFor": "The unaccompanied trumpet cadenza in the first twelve seconds — Armstrong jumps in alone before the band arrives — then the hushed scat duet with Jimmy Strong's low clarinet.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "XkOSCQyRJsE",
+      "watchUrl": "https://www.youtube.com/watch?v=XkOSCQyRJsE"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=XkOSCQyRJsE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_End_Blues",
+      "https://www.youtube.com/watch?v=XkOSCQyRJsE"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "sing-sing-sing",
+    "title": "Sing, Sing, Sing (With a Swing)",
+    "performer": "Benny Goodman and His Orchestra",
+    "composer": "Louis Prima",
+    "compositionYear": 1936,
+    "recordingYear": 1937,
+    "recordingNote": "The extended 8:43 instrumental recorded in Hollywood on July 6, 1937, arranged by Jimmy Mundy and released on both sides of a 12-inch 78",
+    "category": "jazz",
+    "tags": ["swing", "big band", "drums"],
+    "context": "Louis Prima wrote and first recorded this song in 1936, but it became the Benny Goodman Orchestra's signature. Recorded in Hollywood on July 6, 1937 with Gene Krupa on drums and Harry James on trumpet, it ran 8 minutes 43 seconds — far past the three-minute norm for 78s — with arranger Jimmy Mundy folding in Chu Berry's \"Christopher Columbus\". It entered the Grammy Hall of Fame in 1982.",
+    "listenFor": "Gene Krupa's drumming pushing the band past where the tune was supposed to end, and Jess Stacy's quiet, almost thought-out piano solo near the close.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "u_E0UVNtJ9Y",
+      "watchUrl": "https://www.youtube.com/watch?v=u_E0UVNtJ9Y"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=u_E0UVNtJ9Y",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sing,_Sing,_Sing_(With_a_Swing)",
+      "https://www.youtube.com/watch?v=u_E0UVNtJ9Y"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "ko-ko",
+    "title": "Ko-Ko",
+    "performer": "Charlie Parker",
+    "composer": "Charlie Parker",
+    "compositionYear": 1945,
+    "recordingYear": 1945,
+    "recordingNote": "The original Savoy master, recorded November 26, 1945 at WOR studios, New York City",
+    "category": "jazz",
+    "tags": ["bebop", "quintet", "saxophone"],
+    "context": "Recorded November 26, 1945 at WOR studios in New York for the Savoy label, \"Ko-Ko\" is built on the chord changes of \"Cherokee\". Bud Powell was absent from the session, so Dizzy Gillespie took the piano chair while young Miles Davis played trumpet, with Curley Russell on bass and Max Roach on drums. The Library of Congress added the recording to the National Recording Registry in 2002.",
+    "listenFor": "Max Roach's drum interlude splitting the two sax-and-trumpet choruses, and how the tune never once states a written melody — it's all improvisation on the \"Cherokee\" changes.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "0ajJBNodEYs",
+      "watchUrl": "https://www.youtube.com/watch?v=0ajJBNodEYs"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=0ajJBNodEYs",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ko-Ko",
+      "https://www.youtube.com/watch?v=0ajJBNodEYs"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "strange-fruit",
+    "title": "Strange Fruit",
+    "performer": "Billie Holiday",
+    "composer": "Abel Meeropol",
+    "compositionYear": 1937,
+    "recordingYear": 1939,
+    "recordingNote": "The April 20, 1939 Commodore recording, with Frankie Newton's Café Society Band and Sonny White's piano introduction",
+    "category": "jazz",
+    "tags": ["vocals", "protest song", "1930s"],
+    "context": "Abel Meeropol wrote this protest against lynching as a poem, and Billie Holiday first sang it at Café Society, New York's first integrated nightclub. Columbia refused to record it, so she cut it for Milt Gabler's Commodore label on April 20, 1939, with Frankie Newton's eight-piece Café Society Band. Gabler had pianist Sonny White improvise an intro, so Holiday doesn't sing until about 70 seconds in. The 1939 recording sold a million copies and entered the National Recording Registry in 2003.",
+    "listenFor": "The long solo-piano introduction holding the room silent, then the bareness of Holiday's voice carrying the whole weight of the lyric.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "649wWWkW_1o",
+      "watchUrl": "https://www.youtube.com/watch?v=649wWWkW_1o"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=649wWWkW_1o",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Strange_Fruit",
+      "https://www.youtube.com/watch?v=649wWWkW_1o"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "so-what",
+    "title": "So What",
+    "performer": "Miles Davis",
+    "composer": "Miles Davis",
+    "compositionYear": 1959,
+    "recordingYear": 1959,
+    "recordingNote": "Opening track of Kind of Blue, recorded March 2, 1959 for Columbia",
+    "category": "jazz",
+    "tags": ["modal", "sextet", "trumpet"],
+    "context": "Recorded March 2, 1959, this is the first track of Kind of Blue, the album Miles Davis made with John Coltrane, Cannonball Adderley, Bill Evans, Paul Chambers, and Jimmy Cobb. Gil Evans wrote the piano-and-bass introduction heard at the start, written out for Bill Evans and Paul Chambers. The whole piece moves between just two chords a half-step apart, and the answering figures Davis plays behind Coltrane and Adderley gave pianists what's now called the \"So What chord\".",
+    "listenFor": "Bill Evans and Paul Chambers stating the theme in unison at the top, then Davis soloing over one chord for nearly a minute without losing your attention.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "zqNTltOGh5c",
+      "watchUrl": "https://www.youtube.com/watch?v=zqNTltOGh5c"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=ylXk1LBvIqU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/So_What_(Miles_Davis_composition)",
+      "https://en.wikipedia.org/wiki/Kind_of_Blue",
+      "https://www.youtube.com/watch?v=zqNTltOGh5c"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "goodbye-pork-pie-hat",
+    "title": "Goodbye Pork Pie Hat",
+    "performer": "Charles Mingus",
+    "composer": "Charles Mingus",
+    "compositionYear": 1959,
+    "recordingYear": 1959,
+    "recordingNote": "From the 1959 Columbia album Mingus Ah Um, played by Mingus's sextet",
+    "category": "jazz",
+    "tags": ["elegy", "ballad", "bass"],
+    "context": "Mingus wrote this slow, mournful theme for saxophonist Lester Young, who had died two months before the Mingus Ah Um recording sessions — the pork pie hat was Young's trademark. The 1959 sextet version features John Handy and Booker Ervin on tenor saxophones, Horace Parlan on piano, and Mingus's own bass out front. It became one of his most covered compositions, later reworked with lyrics by Joni Mitchell on her 1979 album Mingus.",
+    "listenFor": "Mingus's bass carrying the melody at the start, then John Handy's tenor picking up the tune with a vocal, faltering quality that suits the elegy.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "H2x3jbX0ePk",
+      "watchUrl": "https://www.youtube.com/watch?v=H2x3jbX0ePk"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=H2x3jbX0ePk",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goodbye_Pork_Pie_Hat",
+      "https://www.youtube.com/watch?v=H2x3jbX0ePk"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "journey-in-satchidananda",
+    "title": "Journey in Satchidananda",
+    "performer": "Alice Coltrane",
+    "composer": "Alice Coltrane",
+    "compositionYear": 1970,
+    "recordingYear": 1970,
+    "recordingNote": "Title track of the Impulse! album released February 1971, recorded November 8, 1970 at Coltrane's home studio in Dix Hills, New York",
+    "category": "jazz",
+    "tags": ["spiritual jazz", "harp", "modal"],
+    "context": "Alice Coltrane recorded this in November 1970 at her home studio in Dix Hills, New York, for her fourth Impulse! album, released in February 1971. Her harp and piano are joined by Pharoah Sanders on saxophone, Cecil McBee on bass, Rashied Ali on drums, Majid Shabazz on percussion, and a droning tanpura — the title honors Swami Satchidananda, whom she had studied under. Rolling Stone ranked the album number 446 on its 2020 list of the 500 greatest albums.",
+    "listenFor": "The tanpura's steady drone under Coltrane's harp, with Pharoah Sanders' soprano sax circling above it — less a chord progression than a continuous hum.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "4llVxw4CpLM",
+      "watchUrl": "https://www.youtube.com/watch?v=4llVxw4CpLM"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=4llVxw4CpLM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Journey_in_Satchidananda",
+      "https://www.youtube.com/watch?v=4llVxw4CpLM"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "mannenberg",
+    "title": "Mannenberg",
+    "performer": "Abdullah Ibrahim (Dollar Brand)",
+    "composer": "Abdullah Ibrahim",
+    "compositionYear": 1974,
+    "recordingYear": 1974,
+    "recordingNote": "Recorded in June 1974 in a Cape Town studio, released under the name Dollar Brand on the album Mannenberg – Is Where It's Happening",
+    "category": "jazz",
+    "tags": ["cape jazz", "south africa", "piano"],
+    "context": "Abdullah Ibrahim — then recording as Dollar Brand — cut this in a Cape Town studio in June 1974, produced by Rashid Vally, during one of the brief visits home his exiled status allowed. Basil Coetzee's saxophone solo was so central that he took \"Manenberg\" as a nickname. Drawing on the Cape Town street styles of marabi and langarm, it sold tens of thousands of copies within months and became an unofficial anthem of the anti-apartheid movement in the 1980s.",
+    "listenFor": "The rolling, dancing piano figure Ibrahim plays almost from the first bar — a rhythm you could walk to — before Coetzee's saxophone enters and lifts it.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "YsCWDGCQGRk",
+      "watchUrl": "https://www.youtube.com/watch?v=YsCWDGCQGRk"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=YsCWDGCQGRk",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mannenberg",
+      "https://www.youtube.com/watch?v=YsCWDGCQGRk"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "kogun",
+    "title": "Kogun",
+    "performer": "Toshiko Akiyoshi – Lew Tabackin Big Band",
+    "composer": "Toshiko Akiyoshi",
+    "compositionYear": 1974,
+    "recordingYear": 1974,
+    "recordingNote": "Title track of Kogun, the band's first album, recorded April 3–4, 1974 at Sage & Sand Studio, Hollywood",
+    "category": "jazz",
+    "tags": ["big band", "japan", "composer"],
+    "context": "Pianist and composer Toshiko Akiyoshi formed this sixteen-piece band in Los Angeles in 1973 with her husband, saxophonist Lew Tabackin, and recorded its first album at Sage & Sand Studio in Hollywood in April 1974. The title track takes its name — \"a lone army\" — from Hiroo Onoda, the Japanese soldier who held out in the Philippine jungle for decades after the war ended. The album won Japan's Swing Journal Silver Disk prize and earned a 1979 Grammy nomination.",
+    "listenFor": "The group's No-theater-inspired chanting and kotsuzumi-style drum sounds folded into a full big band — Akiyoshi weaving Japanese color through American orchestral jazz.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "xl-_kHMxodc",
+      "watchUrl": "https://www.youtube.com/watch?v=xl-_kHMxodc"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=xl-_kHMxodc",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kogun",
+      "https://en.wikipedia.org/wiki/Toshiko_Akiyoshi",
+      "https://music.indiana.edu/faculty/bookshelf/toshiko-akiyoshi-lew-tabackin-big-bands-kogun-2024.html",
+      "https://www.youtube.com/watch?v=xl-_kHMxodc"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  },
+  {
+    "id": "afro-blue",
+    "title": "Afro Blue",
+    "performer": "Robert Glasper Experiment feat. Erykah Badu",
+    "composer": "Mongo Santamaría",
+    "compositionYear": 1959,
+    "recordingYear": 2011,
+    "recordingNote": "From the Blue Note album Black Radio, released February 28, 2012, with Erykah Badu singing Oscar Brown Jr.'s lyrics",
+    "category": "jazz",
+    "tags": ["vocals", "neo-soul", "modern jazz"],
+    "context": "Conguero Mongo Santamaría composed \"Afro Blue\" in 1959 as an instrumental — the first jazz standard built on a 3:2 African cross-rhythm — and Oscar Brown Jr. added lyrics that same year. Pianist Robert Glasper and his electric quartet recast it with Erykah Badu's voice for Black Radio, released February 28, 2012 on Blue Note. The album won the Grammy for Best R&B Album in 2013, with Casey Benjamin on vocoder and saxophone, Derrick Hodge on bass, and Chris Dave on drums.",
+    "listenFor": "The lilting 6/8 swing that never speeds up under Badu's unhurried vocal, and Casey Benjamin's vocoder answers floating behind her.",
+    "playback": {
+      "provider": "youtube",
+      "videoId": "H_hT61-E5kg",
+      "watchUrl": "https://www.youtube.com/watch?v=H_hT61-E5kg"
+    },
+    "fallbackUrl": "https://www.youtube.com/watch?v=H_hT61-E5kg",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Afro_Blue",
+      "https://en.wikipedia.org/wiki/Black_Radio",
+      "https://www.youtube.com/watch?v=H_hT61-E5kg"
+    ],
+    "artworkNote": "typographic — no artwork licensed",
+    "restrictions": null,
+    "lastChecked": "2026-11-01"
+  }
+]
